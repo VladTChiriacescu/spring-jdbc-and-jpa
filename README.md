@@ -1,5 +1,5 @@
 # Zuhlke Spring Framework Demos
-## JPA specification and Hibernate (JPA implementation)
+## Spring JDBC vs. Spring JPA vs. Spring Data JPA
 
 ### Description
 
